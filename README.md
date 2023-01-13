@@ -4,7 +4,9 @@ Ce projet a été conçu dans le cadre de notre formation académique crée avec
 
 La solution permet notamment à une agence de location de voitures:
 
-*Gestion des clients
+*Le reporting
+
+*Gestion de la clientèle
 
 *Gestion des managers
 
